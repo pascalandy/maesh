@@ -12,7 +12,7 @@
 
 ## Maesh: Simpler Service Mesh
 
-Maesh is a simple, yet full-featured service mesh.. 
+Maesh is a simple, yet full-featured service mesh.
 It is container-native and fits as your de-facto service mesh in your Kubernetes cluster. 
 It supports the latest Service Mesh Interface specification [SMI](https://smi-spec.io) that facilitates integration with pre-existing solution. 
 Moreover, Maesh is opt-in by default, 
